@@ -10,6 +10,7 @@
 
 #build
 /.netlify
+/build
 /netlify.toml
 
 # misc
