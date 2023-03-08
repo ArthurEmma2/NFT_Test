@@ -1,10 +1,10 @@
-# Getting Started with Create React App
+# Stacks used for the front-end
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+### React JS
 
-## Available Scripts
+### JavaScript
 
-In the project directory, you can run:
+### Tailwind css
 
 ### `npm start`
 
